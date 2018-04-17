@@ -7,6 +7,7 @@
     - [Homework 1](#homework-1)
     - [Homework 2](#homework-2)
     - [Homework 3](#homework-3)
+    - [Homework 4](#homework-4)
 
 <!-- /TOC -->
 
@@ -27,3 +28,6 @@
 * 游戏对象与图形基础实验题部分（详见`homework3`文件夹）
     * [游戏场景演示视频](https://github.com/RQTN/unity3D-learning/blob/master/homework3/%E6%B8%B8%E6%88%8F%E5%9C%BA%E6%99%AF%E6%BC%94%E7%A4%BA.mp4)
     * [牧师与魔鬼视频](https://github.com/RQTN/unity3D-learning/blob/master/homework3/%E7%89%A7%E5%B8%88%E4%B8%8E%E9%AD%94%E9%AC%BCV2.mp4)
+
+## Homework 4
+* [打飞碟视频](http://v.youku.com/v_show/id_XMzU0NTYzMzAwOA==.html?spm=a2hzp.8253869.0.0)(详见`homework4`文件夹)
