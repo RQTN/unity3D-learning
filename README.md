@@ -42,4 +42,4 @@
 
 
 ## Homework 7
-* [粒子光环视频]()
+* [粒子光环视频](https://github.com/RQTN/unity3D-learning/blob/master/homework7/%E7%B2%92%E5%AD%90%E5%85%89%E7%8E%AF.mp4)
