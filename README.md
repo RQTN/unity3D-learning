@@ -9,6 +9,8 @@
     - [Homework 3](#homework-3)
     - [Homework 4](#homework-4)
     - [Homework 5](#homework-5)
+    - [Homework 6](#homework-6)
+    - [Homework 7](#homework-7)
 
 <!-- /TOC -->
 
@@ -35,3 +37,9 @@
 
 ## Homework 5
 * [打飞碟视频](http://v.youku.com/v_show/id_XMzU0NTYzMzAwOA==.html?spm=a2hzp.8253869.0.0)(详见`homework5`文件夹)
+
+## Homework 6
+
+
+## Homework 7
+* [粒子光环视频]()
