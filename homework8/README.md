@@ -6,4 +6,8 @@
     * [Unity3d学习笔记（8）-- 可展开公告牌](https://blog.csdn.net/x2_yt/article/details/71330103)
     * [Unity3D协程介绍 以及 使用](https://blog.csdn.net/huang9012/article/details/38492937)
 
-* 视频地址（GitHub仓库里面也有）
+* 实现效果：
+![](Animation.gif)
+
+* 视频地址（GitHub仓库里面有）
+
