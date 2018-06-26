@@ -6,4 +6,4 @@
 * 实现效果：
 ![](Animation.gif)
 
-* 视频（Github仓库里有）
+* [视频](https://www.bilibili.com/video/av25234390)（Github仓库里也有）
